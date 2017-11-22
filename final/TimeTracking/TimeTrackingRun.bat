@@ -1,0 +1,1 @@
+javaw -jar -Dfile.encoding=UTF8 "TimeTracking.jar"
